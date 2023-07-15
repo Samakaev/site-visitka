@@ -26,7 +26,7 @@ wavesurfer.init({
 
 
 //загружаем нужную песню
-wavesurfer.load("sound.mp3");
+wavesurfer.load("Lil_Tecca_-_Ransom_65009105.mp3");
 
 //play and pause a player
 playPause.addEventListener("click", function (e) {
